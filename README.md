@@ -10,4 +10,4 @@ Modules and Packages-
 4. pyfiglet
 5. datetime
 
-Team members- @VedantKashettiwar, @abhishekwaghmare1996
+Team members- @VedantKashettiwar
