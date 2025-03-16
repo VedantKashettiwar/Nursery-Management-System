@@ -20,7 +20,7 @@ conn.execute("INSERT INTO PLANTINFO (ID,PLANT_NAME,QUANTITY,PRICE) \
       VALUES (1, 'MANGO', 10000, 130.36 ), (2, 'ORANGE', 25000, 110.50),(3, 'APPLE',4200,70.00),(4, 'CUSTARD APPLE', 8000,90.26 ),(5,'LEMON',19000,45.50)");
 conn.commit()
 print("PlantInfo Table Done")
-# Adding Data in customer table
+# Adding Data in customer table nishad 
 conn.execute("INSERT INTO USERINFO (PHONE_NUMBER,NAME) \
       VALUES (7020576985, 'Vedant_Kashettiwar'), (8208191188, 'Abhishek_Wagmare')")
 conn.commit()
